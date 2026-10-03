@@ -1,0 +1,13 @@
+{
+  "name": "agenticoslab-docs",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "docs:dev": "@docmd/code dev",
+    "docs:build": "docmd build",
+    "preview": "npx serve site"
+  },
+  "dependencies": {
+    "@docmd/core": "^0.9.4"
+  }
+}
