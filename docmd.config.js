@@ -46,6 +46,10 @@ module.exports = {
       "path": "/agenticos"
     },
     {
+      "title": "Agent Pi",
+      "path": "/pi"
+    },
+    {
       "title": "GitHub",
       "path": "https://github.com/AgenticOSLab/agenticoslab-docs",
       "icon": "github",
