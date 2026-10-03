@@ -1,4 +1,8 @@
 # Пуликация документации
+name: Deploy docmd
+on:
+  push:
+    branches: [main]
 jobs:
   docs:
     runs-on: ubuntu-latest
